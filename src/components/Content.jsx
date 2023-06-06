@@ -21,7 +21,7 @@ const Content = ({ resident }) => {
     return (
 
         
-        <article className="h-[360px] w-[280px] border border-mygreenop bg-mydark mt-4 rounded-[10px] overflow-hidden">
+        <article className="h-[380px] w-[280px] border border-mygreenop bg-mydark mt-4 rounded-[10px] overflow-hidden">
 
             {/* Image of Content */}
             <div className="h-[65%] w-[100%] relative">
